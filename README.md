@@ -2,6 +2,8 @@
 
 A **Twitter (X) clone** built with **Vue 3** and **Tailwind CSS**, backed by a mock REST API powered by **json-server**. It recreates Twitter's dark home timeline: post tweets, like them, comment on them, search the feed, and browse trending topics.
 
+![Tweety timeline](screenshots/timeline.jpg)
+
 ## Features
 
 - **Home timeline** of tweets with author name, handle, text, and optional image
